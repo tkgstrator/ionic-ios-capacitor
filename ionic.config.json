@@ -1,0 +1,7 @@
+{
+  "name": "Salmonia3+",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
